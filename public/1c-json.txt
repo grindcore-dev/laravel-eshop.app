@@ -1,0 +1,40 @@
+[
+{
+"Kod": "ФР-00000001",
+"Name": "Suzuki GSX-R1000",
+"StruktEdin": "Основной склад",
+"Kategoria": "Мотоциклы",
+"Kolichestvo": 3,
+"Sebest": 5000,
+"Sena": 8000
+},
+{
+"Kod": "ФР-00000002",
+"Name": "YAMAHA XZ-560",
+"StruktEdin": "Основной склад",
+"Kategoria": "Мотоциклы",
+"Kolichestvo": 5,
+"Sebest": 6000,
+"Sena":8000
+},
+{
+"Kod": "ФР-00000003",
+"Name": "BMW XS 450",
+"StruktEdin": "Основной склад",
+"Kategoria": "Мотоциклы",
+"Kolichestvo": 5,
+"Sebest": 6500,
+"Sena": 8500
+},
+{
+"Kod": "ФР-00000004",
+"Name": "BMW RTW 150",
+"StruktEdin": "Основной склад",
+"Kategoria": "Мотоциклы",
+"Kolichestvo": 2,
+"Sebest": 4000,
+"Sena": 6000
+}
+]
+
+
